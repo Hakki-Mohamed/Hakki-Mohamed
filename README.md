@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Hakki-Mohamed/Hakki-Mohamed/snake-output/snake.svg" alt="Snake animation" />
-
-###
